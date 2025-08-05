@@ -90,7 +90,7 @@ const ContactSection = () => {
 
   const contactInfo = [
     { icon: <EnvelopeSimple size={20} />, label: "Email", value: "hello@abir.dev" },
-    { icon: <Phone size={20} />, label: "Phone", value: "+1 (555) 123-4567" },
+    { icon: <Phone size={20} />, label: "Phone", value: "+8801781582475" },
     { icon: <MapPin size={20} />, label: "Location", value: "San Francisco, CA" }
   ];
 

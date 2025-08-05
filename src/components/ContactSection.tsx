@@ -85,11 +85,11 @@ const ContactSection = () => {
   const socialLinks = [
     { icon: <GithubLogo size={24} />, href: "#", label: "GitHub" },
     { icon: <LinkedinLogo size={24} />, href: "#", label: "LinkedIn" },
-    { icon: <EnvelopeSimple size={24} />, href: "mailto:hello@abir.dev", label: "Email" }
+    { icon: <EnvelopeSimple size={24} />, href: "mailto:faisalahmedabir09@gmail.com", label: "Email" }
   ];
 
   const contactInfo = [
-    { icon: <EnvelopeSimple size={20} />, label: "Email", value: "hello@abir.dev" },
+    { icon: <EnvelopeSimple size={20} />, label: "Email", value: "faisalahmedabir09@gmail.com" },
     { icon: <Phone size={20} />, label: "Phone", value: "+8801781582475" },
     { icon: <MapPin size={20} />, label: "Location", value: "San Francisco, CA" }
   ];

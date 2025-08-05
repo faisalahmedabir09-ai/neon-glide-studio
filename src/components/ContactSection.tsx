@@ -91,7 +91,7 @@ const ContactSection = () => {
   const contactInfo = [
     { icon: <EnvelopeSimple size={20} />, label: "Email", value: "faisalahmedabir09@gmail.com" },
     { icon: <Phone size={20} />, label: "Phone", value: "+8801781582475" },
-    { icon: <MapPin size={20} />, label: "Location", value: "San Francisco, CA" }
+    { icon: <MapPin size={20} />, label: "Location", value: "Chottogram, Bangladesh" }
   ];
 
   return (
